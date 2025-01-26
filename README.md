@@ -1,8 +1,16 @@
-# React + Vite
+# Movie Finder App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+The **Movie Finder App** is a sleek and user-friendly web application that allows users to find movies they’ll love without the hassle. With an intuitive search bar and categorized sections for trending and all movies, users can easily browse and explore movie details.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+1. **Search Functionality**: Search through movies with ease using a responsive search bar.
+2. **Trending Movies Section**: Displays top trending movies for users to explore.
+3. **All Movies Section**: Browse through a comprehensive list of movies with their posters, ratings, and release years.
+4. **Interactive UI**: Clean and attractive design for a seamless user experience.
+
+## Tech Stack
+- **Frontend**: React.js, Tailwind CSS
+- **Backend**: Appwrite for database and API handling
+- **Build Tool**: Vite
